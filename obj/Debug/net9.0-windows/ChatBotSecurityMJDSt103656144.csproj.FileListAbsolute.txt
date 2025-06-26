@@ -1,0 +1,16 @@
+C:\Users\lab_services_student\Desktop\ChatBotSecurityMJDSt103656144\bin\Debug\net9.0-windows\ChatBotSecurityMJDSt103656144.exe
+C:\Users\lab_services_student\Desktop\ChatBotSecurityMJDSt103656144\bin\Debug\net9.0-windows\ChatBotSecurityMJDSt103656144.deps.json
+C:\Users\lab_services_student\Desktop\ChatBotSecurityMJDSt103656144\bin\Debug\net9.0-windows\ChatBotSecurityMJDSt103656144.runtimeconfig.json
+C:\Users\lab_services_student\Desktop\ChatBotSecurityMJDSt103656144\bin\Debug\net9.0-windows\ChatBotSecurityMJDSt103656144.dll
+C:\Users\lab_services_student\Desktop\ChatBotSecurityMJDSt103656144\bin\Debug\net9.0-windows\ChatBotSecurityMJDSt103656144.pdb
+C:\Users\lab_services_student\Desktop\ChatBotSecurityMJDSt103656144\obj\Debug\net9.0-windows\ChatBotSecurityMJDSt103656144.ChatBotForm.resources
+C:\Users\lab_services_student\Desktop\ChatBotSecurityMJDSt103656144\obj\Debug\net9.0-windows\ChatBotSecurityMJDSt103656144.csproj.GenerateResource.cache
+C:\Users\lab_services_student\Desktop\ChatBotSecurityMJDSt103656144\obj\Debug\net9.0-windows\ChatBotSecurityMJDSt103656144.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Desktop\ChatBotSecurityMJDSt103656144\obj\Debug\net9.0-windows\ChatBotSecurityMJDSt103656144.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Desktop\ChatBotSecurityMJDSt103656144\obj\Debug\net9.0-windows\ChatBotSecurityMJDSt103656144.AssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\ChatBotSecurityMJDSt103656144\obj\Debug\net9.0-windows\ChatBotSecurityMJDSt103656144.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\ChatBotSecurityMJDSt103656144\obj\Debug\net9.0-windows\ChatBotSecurityMJDSt103656144.dll
+C:\Users\lab_services_student\Desktop\ChatBotSecurityMJDSt103656144\obj\Debug\net9.0-windows\refint\ChatBotSecurityMJDSt103656144.dll
+C:\Users\lab_services_student\Desktop\ChatBotSecurityMJDSt103656144\obj\Debug\net9.0-windows\ChatBotSecurityMJDSt103656144.pdb
+C:\Users\lab_services_student\Desktop\ChatBotSecurityMJDSt103656144\obj\Debug\net9.0-windows\ChatBotSecurityMJDSt103656144.genruntimeconfig.cache
+C:\Users\lab_services_student\Desktop\ChatBotSecurityMJDSt103656144\obj\Debug\net9.0-windows\ref\ChatBotSecurityMJDSt103656144.dll

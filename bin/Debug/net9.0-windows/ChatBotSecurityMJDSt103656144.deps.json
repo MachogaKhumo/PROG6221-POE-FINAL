@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "ChatBotSecurityMJDSt103656144/1.0.0": {
+        "runtime": {
+          "ChatBotSecurityMJDSt103656144.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ChatBotSecurityMJDSt103656144/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\Desktop\\C# Exercises\\repos\\CyberSecurityChatBotST10396677\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE363C2-1BC5-4843-82CA-6A7D73E947EE}|CyberSecurityChatbotGUI.csproj|c:\\users\\lab_services_student\\desktop\\c# exercises\\repos\\cybersecuritychatbotst10396677\\chatbotmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE363C2-1BC5-4843-82CA-6A7D73E947EE}|CyberSecurityChatbotGUI.csproj|solutionrelative:chatbotmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE363C2-1BC5-4843-82CA-6A7D73E947EE}|CyberSecurityChatbotGUI.csproj|c:\\users\\lab_services_student\\desktop\\c# exercises\\repos\\cybersecuritychatbotst10396677\\chatbotquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE363C2-1BC5-4843-82CA-6A7D73E947EE}|CyberSecurityChatbotGUI.csproj|solutionrelative:chatbotquiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE363C2-1BC5-4843-82CA-6A7D73E947EE}|CyberSecurityChatbotGUI.csproj|c:\\users\\lab_services_student\\desktop\\c# exercises\\repos\\cybersecuritychatbotst10396677\\chatbotquizquestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE363C2-1BC5-4843-82CA-6A7D73E947EE}|CyberSecurityChatbotGUI.csproj|solutionrelative:chatbotquizquestions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE363C2-1BC5-4843-82CA-6A7D73E947EE}|CyberSecurityChatbotGUI.csproj|c:\\users\\lab_services_student\\desktop\\c# exercises\\repos\\cybersecuritychatbotst10396677\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE363C2-1BC5-4843-82CA-6A7D73E947EE}|CyberSecurityChatbotGUI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE363C2-1BC5-4843-82CA-6A7D73E947EE}|CyberSecurityChatbotGUI.csproj|c:\\users\\lab_services_student\\desktop\\c# exercises\\repos\\cybersecuritychatbotst10396677\\chatbottask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE363C2-1BC5-4843-82CA-6A7D73E947EE}|CyberSecurityChatbotGUI.csproj|solutionrelative:chatbottask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE363C2-1BC5-4843-82CA-6A7D73E947EE}|CyberSecurityChatbotGUI.csproj|c:\\users\\lab_services_student\\desktop\\c# exercises\\repos\\cybersecuritychatbotst10396677\\chatbotsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE363C2-1BC5-4843-82CA-6A7D73E947EE}|CyberSecurityChatbotGUI.csproj|solutionrelative:chatbotsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE363C2-1BC5-4843-82CA-6A7D73E947EE}|CyberSecurityChatbotGUI.csproj|c:\\users\\lab_services_student\\desktop\\c# exercises\\repos\\cybersecuritychatbotst10396677\\chatbotform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DEE363C2-1BC5-4843-82CA-6A7D73E947EE}|CyberSecurityChatbotGUI.csproj|solutionrelative:chatbotform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEE363C2-1BC5-4843-82CA-6A7D73E947EE}|CyberSecurityChatbotGUI.csproj|c:\\users\\lab_services_student\\desktop\\c# exercises\\repos\\cybersecuritychatbotst10396677\\chatbotform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEE363C2-1BC5-4843-82CA-6A7D73E947EE}|CyberSecurityChatbotGUI.csproj|solutionrelative:chatbotform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChatBotForm.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\C# Exercises\\repos\\CyberSecurityChatBotST10396677\\ChatBotForm.cs",
+              "RelativeDocumentMoniker": "ChatBotForm.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\C# Exercises\\repos\\CyberSecurityChatBotST10396677\\ChatBotForm.cs",
+              "RelativeToolTip": "ChatBotForm.cs",
+              "ViewState": "AgIAAE4AAAAA/v///38vwDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T21:15:23.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChatBotsData.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\C# Exercises\\repos\\CyberSecurityChatBotST10396677\\ChatBotsData.cs",
+              "RelativeDocumentMoniker": "ChatBotsData.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\C# Exercises\\repos\\CyberSecurityChatBotST10396677\\ChatBotsData.cs",
+              "RelativeToolTip": "ChatBotsData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T21:06:55.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChatBotTask.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\C# Exercises\\repos\\CyberSecurityChatBotST10396677\\ChatBotTask.cs",
+              "RelativeDocumentMoniker": "ChatBotTask.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\C# Exercises\\repos\\CyberSecurityChatBotST10396677\\ChatBotTask.cs",
+              "RelativeToolTip": "ChatBotTask.cs",
+              "ViewState": "AgIAAAIAAADAMjMzMzMbwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T21:05:49.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatBotMenu.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\C# Exercises\\repos\\CyberSecurityChatBotST10396677\\ChatBotMenu.cs",
+              "RelativeDocumentMoniker": "ChatBotMenu.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\C# Exercises\\repos\\CyberSecurityChatBotST10396677\\ChatBotMenu.cs",
+              "RelativeToolTip": "ChatBotMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGABAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T21:01:39.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\C# Exercises\\repos\\CyberSecurityChatBotST10396677\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\C# Exercises\\repos\\CyberSecurityChatBotST10396677\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T21:05:54.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChatBotQuizQuestions.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\C# Exercises\\repos\\CyberSecurityChatBotST10396677\\ChatBotQuizQuestions.cs",
+              "RelativeDocumentMoniker": "ChatBotQuizQuestions.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\C# Exercises\\repos\\CyberSecurityChatBotST10396677\\ChatBotQuizQuestions.cs",
+              "RelativeToolTip": "ChatBotQuizQuestions.cs",
+              "ViewState": "AgIAAE4AAACA/////z8kwBgAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T21:04:51.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChatBotQuiz.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\C# Exercises\\repos\\CyberSecurityChatBotST10396677\\ChatBotQuiz.cs",
+              "RelativeDocumentMoniker": "ChatBotQuiz.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\C# Exercises\\repos\\CyberSecurityChatBotST10396677\\ChatBotQuiz.cs",
+              "RelativeToolTip": "ChatBotQuiz.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T21:04:50.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChatBotForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\Desktop\\C# Exercises\\repos\\CyberSecurityChatBotST10396677\\ChatBotForm.cs",
+              "RelativeDocumentMoniker": "ChatBotForm.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\Desktop\\C# Exercises\\repos\\CyberSecurityChatBotST10396677\\ChatBotForm.cs [Design]",
+              "RelativeToolTip": "ChatBotForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T21:53:00.143Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

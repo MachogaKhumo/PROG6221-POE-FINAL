@@ -1,0 +1,32 @@
+C:\Users\lab_services_student\Desktop\ChatBotSecurityMJDSt103656144\bin\Debug\net9.0-windows\CyberSecurityChatbotGUI.exe
+C:\Users\lab_services_student\Desktop\ChatBotSecurityMJDSt103656144\bin\Debug\net9.0-windows\CyberSecurityChatbotGUI.deps.json
+C:\Users\lab_services_student\Desktop\ChatBotSecurityMJDSt103656144\bin\Debug\net9.0-windows\CyberSecurityChatbotGUI.runtimeconfig.json
+C:\Users\lab_services_student\Desktop\ChatBotSecurityMJDSt103656144\bin\Debug\net9.0-windows\CyberSecurityChatbotGUI.dll
+C:\Users\lab_services_student\Desktop\ChatBotSecurityMJDSt103656144\bin\Debug\net9.0-windows\CyberSecurityChatbotGUI.pdb
+C:\Users\lab_services_student\Desktop\ChatBotSecurityMJDSt103656144\obj\Debug\net9.0-windows\CyberSecurityChatbotGUI.ChatBotForm.resources
+C:\Users\lab_services_student\Desktop\ChatBotSecurityMJDSt103656144\obj\Debug\net9.0-windows\CyberSecurityChatbotGUI.csproj.GenerateResource.cache
+C:\Users\lab_services_student\Desktop\ChatBotSecurityMJDSt103656144\obj\Debug\net9.0-windows\CyberSecurityChatbotGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Desktop\ChatBotSecurityMJDSt103656144\obj\Debug\net9.0-windows\CyberSecurityChatbotGUI.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Desktop\ChatBotSecurityMJDSt103656144\obj\Debug\net9.0-windows\CyberSecurityChatbotGUI.AssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\ChatBotSecurityMJDSt103656144\obj\Debug\net9.0-windows\CyberSecurityChatbotGUI.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\ChatBotSecurityMJDSt103656144\obj\Debug\net9.0-windows\CyberSecurityChatbotGUI.dll
+C:\Users\lab_services_student\Desktop\ChatBotSecurityMJDSt103656144\obj\Debug\net9.0-windows\refint\CyberSecurityChatbotGUI.dll
+C:\Users\lab_services_student\Desktop\ChatBotSecurityMJDSt103656144\obj\Debug\net9.0-windows\CyberSecurityChatbotGUI.pdb
+C:\Users\lab_services_student\Desktop\ChatBotSecurityMJDSt103656144\obj\Debug\net9.0-windows\CyberSecurityChatbotGUI.genruntimeconfig.cache
+C:\Users\lab_services_student\Desktop\ChatBotSecurityMJDSt103656144\obj\Debug\net9.0-windows\ref\CyberSecurityChatbotGUI.dll
+C:\Users\lab_services_student\Desktop\C# Exercises\repos\CyberSecurityChatBotST10396677\bin\Debug\net9.0-windows\CyberSecurityChatbotGUI.exe
+C:\Users\lab_services_student\Desktop\C# Exercises\repos\CyberSecurityChatBotST10396677\bin\Debug\net9.0-windows\CyberSecurityChatbotGUI.deps.json
+C:\Users\lab_services_student\Desktop\C# Exercises\repos\CyberSecurityChatBotST10396677\bin\Debug\net9.0-windows\CyberSecurityChatbotGUI.runtimeconfig.json
+C:\Users\lab_services_student\Desktop\C# Exercises\repos\CyberSecurityChatBotST10396677\bin\Debug\net9.0-windows\CyberSecurityChatbotGUI.dll
+C:\Users\lab_services_student\Desktop\C# Exercises\repos\CyberSecurityChatBotST10396677\bin\Debug\net9.0-windows\CyberSecurityChatbotGUI.pdb
+C:\Users\lab_services_student\Desktop\C# Exercises\repos\CyberSecurityChatBotST10396677\obj\Debug\net9.0-windows\CyberSecurityChatbotGUI.ChatBotForm.resources
+C:\Users\lab_services_student\Desktop\C# Exercises\repos\CyberSecurityChatBotST10396677\obj\Debug\net9.0-windows\CyberSecurityChatbotGUI.csproj.GenerateResource.cache
+C:\Users\lab_services_student\Desktop\C# Exercises\repos\CyberSecurityChatBotST10396677\obj\Debug\net9.0-windows\CyberSecurityChatbotGUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab_services_student\Desktop\C# Exercises\repos\CyberSecurityChatBotST10396677\obj\Debug\net9.0-windows\CyberSecurityChatbotGUI.AssemblyInfoInputs.cache
+C:\Users\lab_services_student\Desktop\C# Exercises\repos\CyberSecurityChatBotST10396677\obj\Debug\net9.0-windows\CyberSecurityChatbotGUI.AssemblyInfo.cs
+C:\Users\lab_services_student\Desktop\C# Exercises\repos\CyberSecurityChatBotST10396677\obj\Debug\net9.0-windows\CyberSecurityChatbotGUI.csproj.CoreCompileInputs.cache
+C:\Users\lab_services_student\Desktop\C# Exercises\repos\CyberSecurityChatBotST10396677\obj\Debug\net9.0-windows\CyberSecurityChatbotGUI.dll
+C:\Users\lab_services_student\Desktop\C# Exercises\repos\CyberSecurityChatBotST10396677\obj\Debug\net9.0-windows\refint\CyberSecurityChatbotGUI.dll
+C:\Users\lab_services_student\Desktop\C# Exercises\repos\CyberSecurityChatBotST10396677\obj\Debug\net9.0-windows\CyberSecurityChatbotGUI.pdb
+C:\Users\lab_services_student\Desktop\C# Exercises\repos\CyberSecurityChatBotST10396677\obj\Debug\net9.0-windows\CyberSecurityChatbotGUI.genruntimeconfig.cache
+C:\Users\lab_services_student\Desktop\C# Exercises\repos\CyberSecurityChatBotST10396677\obj\Debug\net9.0-windows\ref\CyberSecurityChatbotGUI.dll
